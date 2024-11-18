@@ -1,5 +1,5 @@
 
-<a href="LINK" target="_blank" rel="noopener noreferrer">Home</a> \|**Scouting** \| <a href="LINK" target="_blank" rel="noopener noreferrer">github</a>
+<a href="LINK" target="_blank" rel="noopener noreferrer">Home</a> \| **Scouting** \| <a href="LINK" target="_blank" rel="noopener noreferrer">github</a>
 
   <hr>
 
