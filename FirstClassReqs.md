@@ -1,3 +1,7 @@
+<a href="https://zephyrcarter.github.io" target="_blank" rel="noopener noreferrer">Home</a> \| **Scouting** \| <a href="LINK" target="_blank" rel="noopener noreferrer">About</a>
+
+  <hr>
+
 <a href="https://zephyrcarter.github.io/Scouting.html"><<Back</a>
 
 <h3>First Class Requirements</h3>
