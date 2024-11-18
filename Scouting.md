@@ -31,7 +31,7 @@
    <tr>
     <td>First Class</td>
     <td><i>pending</i></td>
-    <td><a href="LINK">Details>></a></td>
+    <td><a href="LINK">Details >></a></td>
   </tr>
 </table>
 
