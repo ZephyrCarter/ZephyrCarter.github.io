@@ -9,6 +9,44 @@
 
 **Home**\| <a href="LINK" target="_blank" rel="noopener noreferrer">Scouting</a> \|<a href="LINK" target="_blank" rel="noopener noreferrer">github</a>
 
+  <hr>
+
+<h3>Accomplishments:</h3>
+
+  <hr>
+
+<ul>
+
+<li>Boy Scout Patrol Leader (Big pony patrol)</li>
+<li>Former member of the San Fransisco boy's Choir</li>
+  
+</ul>
+
+  <hr>
+
+<h3>Valubale experiances:</h3>
+
+  <hr>
+
+<ul>
+
+<li>Organized and led a Jewish Religous service</li>
+<li>Led a team in designing and constructing a  </li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+  
+</ul>
 
 
+
+
+
+
+
+
+
+
+  
   
