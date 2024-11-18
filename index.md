@@ -31,15 +31,11 @@
 <ul>
 
 <li>Organized and led a Jewish Religous service</li>
-<li>Led a team in designing and constructing a  </li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Led a team in designing and constructing a raft capable of holding eight passengers </li>
   
 </ul>
 
-
+  <hr>
 
 
 
