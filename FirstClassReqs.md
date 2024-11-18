@@ -1,4 +1,4 @@
-<a href="LINK"><<Back</a>
+<a href="https://zephyrcarter.github.io/Scouting.html"><<Back</a>
 
 <h3>First Class Requirements</h3>
 
@@ -197,7 +197,7 @@
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
-   
+    <tr>
 
 
 
