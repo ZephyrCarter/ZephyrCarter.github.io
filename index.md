@@ -1,5 +1,5 @@
 
-**Home** \| <a href="https://zephyrcarter.github.io/Scouting.html" target="_blank" rel="noopener noreferrer">Scouting</a> \| <a href="LINK" target="_blank" rel="noopener noreferrer">About</a>
+**Home** \| <a href="https://zephyrcarter.github.io/SCOUTHUB/Scouting.html" target="_blank" rel="noopener noreferrer">Scouting</a> \| <a href="LINK" target="_blank" rel="noopener noreferrer">About</a>
 
   <hr>
 
