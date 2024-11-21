@@ -31,8 +31,7 @@
    <tr>
     <td>First Class</td>
     <td><i>pending</i></td>
-    <td><a href="https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FirstClassReqs.md">Details >></a></td>
-  </tr>
+    <td><a href="https://zephyrcarter.github.io/SCOUTHUB/FIRSTCLASS/FirstClassReqs.html">Details >></a></td>
 </table>
 
   <hr>
