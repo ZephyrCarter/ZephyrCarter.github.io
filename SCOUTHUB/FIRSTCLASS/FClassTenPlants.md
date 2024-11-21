@@ -7,7 +7,7 @@
 
   <hr>
 
-2. Pacific Poison Ivy  ![Pacific Poison Oak](IMG_2873.jpeg)
+2. Pacific Poison Oak ![Pacific Poison Oak](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2873.jpeg)
 [Source>>](https://www.nps.gov/articles/000/pacific-poison-oak.htm)
 
 <hr>
