@@ -13,18 +13,18 @@
 <hr>
 
 3. California Blackberry
-![California Blackberry](IMG_2862.jpeg)
+![California Blackberry](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2862.jpeg)
 [Source>>](https://theodorepayne.org/nativeplantdatabase/index.php?title=Rubus_ursinus)
 
 <hr>
 
 4. Coast Live Oak
-![Coast Live Oak](IMG_2860.jpeg)[Source>>](https://www.wildflower.org/plants/result.php?id_plant=QUAG)
+![Coast Live Oak](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2860.jpeg)[Source>>](https://www.wildflower.org/plants/result.php?id_plant=QUAG)
 
 <hr>
 
 5. Pink Honeysuckle
-![Pink Honeysuckle](IMG_2866.jpeg)
+![Pink Honeysuckle](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/IMG_2866.jpeg)
 [Source>>](https://www.wildflower.org/plants/result.php?id_plant=lohi2)
 
 <hr>
