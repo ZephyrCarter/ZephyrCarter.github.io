@@ -48,7 +48,7 @@
 <hr>
 
 9. California Bay
-![California Bay](IMG_2858.jpeg)
+![California Bay](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2858.jpeg)
 [Source>>](https://www.inaturalist.org/taxa/48807-Umbellularia-californica)
 
 <hr>
