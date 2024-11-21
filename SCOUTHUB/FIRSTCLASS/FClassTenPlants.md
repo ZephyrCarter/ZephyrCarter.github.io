@@ -30,19 +30,19 @@
 <hr>
 
 6. Coastal Woodfern
-![Coastal Woodfern](IMG_2883.jpeg)
+![Coastal Woodfern](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2883.jpeg)
 [Source>>](https://www.inaturalist.org/taxa/52671-Dryopteris-arguta)
 
 <hr>
 
 7. Bristly Beard Lichen
-![Bristly Beard Lichen](IMG_2885.jpeg)
+![Bristly Beard Lichen](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2885.jpeg)
 [Source>>](https://www.inaturalist.org/taxa/52671-Dryopteris-arguta)
 
 <hr>
 
 8. Western Sword Fern
-![Western Sword Fern](IMG_2863.jpeg)
+![Western Sword Fern](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2863.jpeg)
 [Source>>](https://www.inaturalist.org/taxa/47751-Polystichum-munitum)
 
 <hr>
