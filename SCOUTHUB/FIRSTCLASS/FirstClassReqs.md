@@ -195,11 +195,12 @@
  <td>12. <a href="LINK">More>></a></td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
-  </tr>
+   </tr>
    <tr>
  <td>13. <a href="LINK">More>></a></td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
+   </tr>
 </table>
 
 
