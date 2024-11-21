@@ -2,7 +2,7 @@
 
   <hr>
 
-<a href="https://zephyrcarter.github.io/Scouting.html"><<Back</a>
+<a href="https://zephyrcarter.github.io/SCOUTHUB/Scouting.md"><<Back</a>
 
 <h3>First Class Requirements</h3>
 
