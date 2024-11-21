@@ -2,7 +2,7 @@
 
   <hr>
 
-1. Coastal redwood  ![The Coastal Redwood](IMG_2857.jpeg)
+1. Coastal redwood  ![The Coastal Redwood](SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2857.jpeg)
 [Source>>](https://theodorepayne.org/nativeplantdatabase/index.php?title=Sequoia_sempervirens)
 
   <hr>
