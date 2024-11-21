@@ -10,12 +10,12 @@
   <tr>
     <th>Requirements</th>
     <th>Completion</th>
-    <th>Status</th>
+    <th>Signed Off?</th>
   </tr>
   <tr>
     <td>1a. <a href="LINK">More>></a></td>
     <td>Completed</td>
-    <td>Acknowledged</td>
+    <td>Yes</td>
   </tr>
   <tr>
     <td>1b. <a href="LINK">More>></a></td>
