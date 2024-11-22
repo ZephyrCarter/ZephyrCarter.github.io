@@ -24,7 +24,7 @@
 <hr>
 
 5. Pink Honeysuckle
-![Pink Honeysuckle](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/IMG_2866.jpeg)
+![Pink Honeysuckle](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2866.jpeg)
 [Source>>](https://www.wildflower.org/plants/result.php?id_plant=lohi2)
 
 <hr>
@@ -53,8 +53,10 @@
 
 <hr>
 
-10. 
+10. Speckled Greenshield
+![Speckled Greenshield](https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/FCIMGS/IMG_2901.jpeg)
+[Source>>](https://en.m.wikipedia.org/wiki/Flavopunctelia_flaventior#:~:text=The%20lichen%20is%20commonly%20known,North%20America%2C%20and%20South%20America.)
 
-
+<hr>
 
 
