@@ -123,12 +123,12 @@
   </tr>
    <tr>
  <td>7a. <a href="LINK">More>></a></td>
-    <td>Uncompletes</td>
+    <td>Completed</td>
     <td>No</td>
   </tr>
    <tr>
  <td>7b. <a href="LINK">More>></a></td>
-    <td>Uncompleted</td>
+    <td>Completed</td>
     <td>No</td>
   </tr>
    <tr>
@@ -163,43 +163,43 @@
   </tr>
    <tr>
  <td>9a. <a href="LINK">More>></a></td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Uncompleted</td>
+    <td>No</td>
   </tr>
    <tr>
  <td>9b. <a href="LINK">More>></a></td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Completed</td>
+    <td>Yes</td>
   </tr>
    <tr>
  <td>9c. <a href="LINK">More>></a></td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Completed</td>
+    <td>Yes</td>
   </tr>
    <tr>
  <td>9d. <a href="LINK">More>></a></td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Uncompleted</td>
+    <td>No</td>
   </tr>
    <tr>
  <td>10. <a href="LINK">More>></a></td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Completed</td>
+    <td>No</td>
   </tr>
    <tr>
  <td>11. <a href="LINK">More>></a></td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Uncompleted</td>
+    <td>No</td>
   </tr>
    <tr>
  <td>12. <a href="LINK">More>></a></td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Uncompleted</td>
+    <td>No</td>
    </tr>
    <tr>
  <td>13. <a href="LINK">More>></a></td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Uncompleted</td>
+    <td>No</td>
    </tr>
 </table>
 
