@@ -169,7 +169,7 @@
    <tr>
  <td>9b. <a href="LINK">More>></a></td>
     <td>Completed</td>
-    <td>Yes</td>
+    <td>Yes [View>>](https://docs.google.com/document/d/1N4naSxF4TuDk_MqZikziXHBiNgYohSQMKbgQrezSQ90/edit)</td>
   </tr>
    <tr>
  <td>9c. <a href="LINK">More>></a></td>
