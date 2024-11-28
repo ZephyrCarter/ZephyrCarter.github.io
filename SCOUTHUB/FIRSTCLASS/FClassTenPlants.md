@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 [<<Back](https://zephyrcarter.github.io/SCOUTHUB/FIRSTCLASS/FirstClassReqs.html)
 
   <hr>
