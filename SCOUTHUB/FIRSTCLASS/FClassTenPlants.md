@@ -1,4 +1,4 @@
-[<<Back](LINK)
+[<<Back](https://zephyrcarter.github.io/SCOUTHUB/FIRSTCLASS/FirstClassReqs.html)
 
   <hr>
 
