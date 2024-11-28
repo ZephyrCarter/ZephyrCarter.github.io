@@ -79,7 +79,7 @@
     <td>No</td>
   </tr>
   <tr>
-  <td>5a. <a href="LINK">More>></a></td>
+  <td>5a. <a href="ZephyrCarter.github.io/SCOUTHUB/FIRSTCLASS/5a.md">More>></a></td>
     <td>Completed</td>
     <td>No <a href="https://zephyrcarter.github.io/SCOUTHUB/FIRSTCLASS/FClassTenPlants.html">View>></a></td>
   </tr>
