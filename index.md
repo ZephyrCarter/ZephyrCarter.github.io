@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 
 **Home** \| <a href="https://zephyrcarter.github.io/SCOUTHUB/Scouting.html" target="_blank" rel="noopener noreferrer">Scouting</a> \| <a href="LINK" target="_blank" rel="noopener noreferrer">About</a>
 
