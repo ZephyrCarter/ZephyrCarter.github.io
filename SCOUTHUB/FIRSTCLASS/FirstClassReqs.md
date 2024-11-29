@@ -186,7 +186,7 @@
    <tr>
  <td>10. <a href="LINK">More>></a></td>
     <td>Completed</td>
-    <td>No <a href="https://github.com/ZephyrCarter/ZephyrCarter.github.io/blob/main/SCOUTHUB/FIRSTCLASS/10.html">View>></a></td>
+    <td>No <a href="https://zephyrcarter.github.io/SCOUTHUB/FIRSTCLASS/10.html">View>></a></td>
   </tr>
    <tr>
  <td>11. <a href="LINK">More>></a></td>
