@@ -13,11 +13,11 @@
 <div id="4a.">
 <h2>Requirement 4a.</h2>
 </div>
-<iframe width="320" height="200" src="https://m.youtube.com/embed/watch?v=UkID_0K0mE0&t=9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="320" height="200" src="https://m.youtube.com/embed/watch?v=UkID_0K0mE0&t=9sfeature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <div id="4b.">
 <h2>Requirement 4b.</h2>
 </div>
-<iframe width="156" height="264" src="https://m.youtube.com/embed/p1-pCzzK0gQ" allowfullscreen></iframe>
+<iframe width="156" height="264" src="https://m.youtube.com/embed/p1-pCzzK0gQfeature=share" allowfullscreen></iframe>
 <hr>
 
