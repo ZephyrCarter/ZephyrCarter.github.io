@@ -31,5 +31,5 @@
 <div id="1b"><h1>Requirement 1b.</h1></div>
 I describe the importance of Leave No Trace, and the Outdoor Code in preserving the Environment
 
-<iframe width="160" height="99" src="https://www.youtube.com/embed/906f9e_CGfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="156" height="264" src="https://www.youtube.com/embed/906f9e_CGfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
