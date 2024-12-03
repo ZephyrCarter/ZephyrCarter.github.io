@@ -25,6 +25,5 @@
 <hr>
 <div id="10"><h1>Requirement 10.</h1></div>
 
-![View>>](https://github.com/user-attachments/assets/a6e85a08-84c3-4fcd-9639-0c50bd9d0073)
+![View>>](https://github.com/user-attachments/assets/f4a2d7b4-25cf-43fe-9ab8-acc6a05bd501)
 <hr>
-<img src="https://github.com/user-attachments/assets/a6e85a08-84c3-4fcd-9639-0c50bd9d0073"/>
