@@ -29,9 +29,7 @@
 ![View>>](https://github.com/user-attachments/assets/f4a2d7b4-25cf-43fe-9ab8-acc6a05bd501)
 <hr>
 <div id="1b"><h1>Requirement 1b.</h1></div>
+I describe the importance of Leave No Trace, and the Outdoor Code in preserving the Environment
 
 <iframe width="160" height="99" src="https://www.youtube.com/embed/906f9e_CGfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
-<iframe width="160" height="99" src="https://m.youtube.com/embed?v=906f9e_CGfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
-<hr>
-hello world
