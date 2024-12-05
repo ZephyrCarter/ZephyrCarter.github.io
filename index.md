@@ -18,7 +18,7 @@
   <li>Completed at Camp Bucktoms</li>
 </ul>
 <hr>
-<div id="7d"><h1>Requirement 5a.</h1></div>
+<div id="7d"><h1>Requirement 7d.</h1></div>
 
 [View>>](https://zephyrcarter.github.io/SCOUTHUB/FIRSTCLASS/5a.html)
 
