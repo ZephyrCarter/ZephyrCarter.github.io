@@ -20,7 +20,6 @@
 <hr>
 <div id="7d"><h1>Requirement 7d.</h1></div>
 
-[View>>](https://zephyrcarter.github.io/SCOUTHUB/FIRSTCLASS/5a.html)
-
+<iframe width="160" height="99" src="https://m.youtube.com/embed/-gV0pQMKLq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr>
