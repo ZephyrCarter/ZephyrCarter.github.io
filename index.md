@@ -11,8 +11,8 @@
 <div id="5a"><h1>Requirement 5a.</h1></div>
 
 [View>>](https://zephyrcarter.github.io/SCOUTHUB/FIRSTCLASS/5a.html)
-<hr
-  
+<hr>
+
 <div id="7b"><h1>Requirement 7b.</h1></div>
 <ul>
   <li>Completed at Camp Bucktoms</li>
