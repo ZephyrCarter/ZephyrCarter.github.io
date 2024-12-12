@@ -8,13 +8,13 @@
 <hr>
 
 
-<div id="7e"><h1>Requirement 7e.</h1></div>
+<div id="7e"><h1>Requirement 7e.</h1></div> Dec 10, 2024
 
 <iframe width="160" height="99" src="https://youtube.com/embed/NGBXSDnoHG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr>
 
-<div id="9a"><h1>Requirement 9a.</h1></div>
+<div id="9a"><h1>Requirement 9a.</h1></div> Dec 11, 2024
 
 <h3>Questiones I asked Officer D. Masis of the Oakland Police Department</h3>
 <ul>
