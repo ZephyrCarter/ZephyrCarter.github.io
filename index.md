@@ -16,7 +16,7 @@
 
 <div id="9a"><h1>Requirement 9a.</h1></div> Dec 11, 2024
 
-
+[View requirement details>>](zephyrcarter.github.io/9a.html)
 
 <hr>
 
