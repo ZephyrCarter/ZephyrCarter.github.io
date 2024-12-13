@@ -1,12 +1,21 @@
 <h1>Table of Contents</h1>
 
+<hr>
+<!--
+<h3>Not Signed off</h3>
 <ul>
 <li><a href="zephyrcarter.github.io/#7e">Requirement 7e</a></li>
 <li><a href="zephyrcarter.github.io/#9a">Requirement 9a</a></li>
 </ul>
 
 <hr>
+<h3>Signed off</h3> -->
+<ul>
+<li><a href="zephyrcarter.github.io/#7e">Requirement 7e</a></li>
+<li><a href="zephyrcarter.github.io/#9a">Requirement 9a</a></li>
+</ul>
 
+<hr>
 
 <div id="7e"><h1>Requirement 7e.</h1></div> Dec 10, 2024
 
