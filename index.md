@@ -1,15 +1,16 @@
 <h1>Table of Contents</h1>
 
 <hr>
-<!--
+
 <h3>Not Signed off</h3>
 <ul>
-<li><a href="zephyrcarter.github.io/#7e">Requirement 7e</a></li>
-<li><a href="zephyrcarter.github.io/#9a">Requirement 9a</a></li>
+<li><a href="zephyrcarter.github.io/#7a">Requirement 7a</a></li>
+<li><a href="zephyrcarter.github.io/#6c">Requirement 6c</a></li>
+<li><a href="zephyrcarter.github.io/#6d">Requirement 6d</a></li>
 </ul>
 
 <hr>
-<h3>Signed off</h3> -->
+<h3>Signed off</h3> 
 <ul>
 <li><a href="zephyrcarter.github.io/#7e">Requirement 7e</a></li>
 <li><a href="zephyrcarter.github.io/#9a">Requirement 9a</a></li>
@@ -57,11 +58,23 @@
 
 <hr>
 
+<div id="7a"><h1>Requirement 7a.</h1></div> Dec 10, 2024
 
+<iframe width="160" height="99" src="https://youtube.com/embed/NGBXSDnoHG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<hr>
 
+<div id="6c"><h1>Requirement 6c.</h1></div> Dec 10, 2024
 
+<iframe width="160" height="99" src="https://youtube.com/embed/NGBXSDnoHG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<hr>
+
+<div id="6d"><h1>Requirement 6d.</h1></div> Dec 10, 2024
+
+<iframe width="160" height="99" src="https://youtube.com/embed/NGBXSDnoHG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<hr>
 
 
 
