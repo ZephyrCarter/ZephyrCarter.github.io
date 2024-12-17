@@ -1,5 +1,3 @@
-<title>Zephyr Carter Blog</title>
-
 <h1>Table of Contents</h1>
 
 <hr>
