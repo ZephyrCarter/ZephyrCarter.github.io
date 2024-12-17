@@ -60,19 +60,19 @@
 
 <div id="7a"><h1>Requirement 7a.</h1></div> Dec 10, 2024
 
-<iframe width="160" height="99" src="https://youtube.com/embed/NGBXSDnoHG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="160" height="99" src="https://youtube.com/embed/MxRiGyuMc4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr>
 
 <div id="6c"><h1>Requirement 6c.</h1></div> Dec 10, 2024
 
-<iframe width="160" height="99" src="https://youtube.com/embed/NGBXSDnoHG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="160" height="99" src="https://youtube.com/embed/8y0_oqqUayw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr>
 
 <div id="6d"><h1>Requirement 6d.</h1></div> Dec 10, 2024
 
-<iframe width="160" height="99" src="https://youtube.com/embed/NGBXSDnoHG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="160" height="99" src="https://youtube.com/embed/8y0_oqqUayw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr>
 
