@@ -3,16 +3,15 @@
 <hr>
 
 <h3>Not Signed off</h3>
+N/A, all Signed off :)
+
+<hr>
+<h3>Signed off</h3> 
 <ul>
 <li><a href="zephyrcarter.github.io/#7a">Requirement 7a</a></li>
 <li><a href="zephyrcarter.github.io/#6c">Requirement 6c</a></li>
 <li><a href="zephyrcarter.github.io/#6d">Requirement 6d</a></li>
 <li><a href="zephyrcarter.github.io/#9d">Requirement 9d</a></li>
-</ul>
-
-<hr>
-<h3>Signed off</h3> 
-<ul>
 <li><a href="zephyrcarter.github.io/#7e">Requirement 7e</a></li>
 <li><a href="zephyrcarter.github.io/#9a">Requirement 9a</a></li>
 <li><a href="zephyrcarter.github.io/#1b">Requirement 1b</a></li>
