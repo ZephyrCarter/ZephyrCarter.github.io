@@ -1,8 +1,18 @@
 <!DOCTYPE html> 
 <tml>
 <head>
-  <title></title>
-  <style></style>
+  <title>Zephyr C. BSA</title>
+  <style>
+
+body {
+text-align: center;
+}
+
+ul {
+text-align: left;
+}
+    
+  </style>
 </head>
 <body>
 
