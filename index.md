@@ -1,88 +1,65 @@
-<h1>Table of Contents</h1>
+<!DOCTYPE html> 
+<tml>
+<head>
+  <title></title>
+  <style></style>
+</head>
+<body>
+
+<h1>Here are all of my various BSA Merit badges, the progress on each one, and any completed Merit badges not recorded here</h1>
+
+<hr>
+<hr>
+
+<h2>The National Anthem</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DADmZdbQ9x8?si=kRJRf0E6ZgD6NWry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+<hr>
+
+<h3>Links</h3> 
 
 <hr>
 
-<h3>Not Signed off</h3>
-N/A, all Signed off :)
+<h4>BSA Merit Badges</h4>
 
 <hr>
-<h3>Signed off</h3> 
+
+<h5>Eagle - Required</h5>
+
+<hr>
+
 <ul>
-<li><a href="zephyrcarter.github.io/#7a">Requirement 7a</a></li>
-<li><a href="zephyrcarter.github.io/#6c">Requirement 6c</a></li>
-<li><a href="zephyrcarter.github.io/#6d">Requirement 6d</a></li>
-<li><a href="zephyrcarter.github.io/#9d">Requirement 9d</a></li>
-<li><a href="zephyrcarter.github.io/#7e">Requirement 7e</a></li>
-<li><a href="zephyrcarter.github.io/#9a">Requirement 9a</a></li>
-<li><a href="zephyrcarter.github.io/#1b">Requirement 1b</a></li>
-<li><a href="zephyrcarter.github.io/#4a">Requirement 4a</a></li>
-<li><a href="zephyrcarter.github.io/#7d">Requirement 7d</a></li>
-<li><a href="zephyrcarter.github.io/#4b">Requirement 4b</a></li>
+  <li><a href="">Link</a></li>
+  <li><a href="">Link</a></li>
+  <li><a href="">Link</a></li>
+  <li><a href="">Link</a></li>
+  <li><a href="">Link</a></li>
 </ul>
 
 <hr>
 
-<div id="7e"><h1>Requirement 7e.</h1></div> Dec 10, 2024
-
-<iframe width="160" height="99" src="https://youtube.com/embed/NGBXSDnoHG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<h5>Non Eagle - Required</h5>
 
 <hr>
 
-<div id="9a"><h1>Requirement 9a.</h1></div> Dec 11, 2024
-
-[View requirement details>>](https://zephyrcarter.github.io/9a)
-
-<hr>
-
-<div id="1b"><h1>Requirement 1b.</h1></div> 
-
-<iframe width="160" height="99" src="https://youtube.com/embed/906f9e_CGfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<ul>
+  <li><a href="">Link</a></li>
+  <li><a href="">Link</a></li>
+  <li><a href="">Link</a></li>
+  <li><a href="">Link</a></li>
+</ul>
 
 <hr>
 
-<div id="4a"><h1>Requirement 4a.</h1></div> 
+<h4>All other non Merit badge related links</h4>
 
-<iframe width="160" height="99" src="https://youtube.com/embed/UkID_0K0mE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<hr>
-
-<div id="7d"><h1>Requirement 7d.</h1></div> 
-
-<iframe width="160" height="99" src="https://youtube.com/embed/-gV0pQMKLq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<ul>
+  <li><a href="">Link</a></li>
+  <li><a href="">Link</a></li>
+</ul>
 
 <hr>
 
-<div id="4b"><h1>Requirement 4b.</h1></div> 
-
-<iframe width="160" height="99" src="https://youtube.com/embed/p1-pCzzK0gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<hr>
-
-<div id="7a"><h1>Requirement 7a.</h1></div> Dec 10, 2024
-
-<iframe width="160" height="99" src="https://youtube.com/embed/MxRiGyuMc4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<hr>
-
-<div id="6c"><h1>Requirement 6c.</h1></div> Dec 10, 2024
-
-<iframe width="160" height="99" src="https://youtube.com/embed/8y0_oqqUayw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<hr>
-
-<div id="6d"><h1>Requirement 6d.</h1></div> Dec 10, 2024
-
-<iframe width="160" height="99" src="https://youtube.com/embed/8y0_oqqUayw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<hr>
-
-<div id="9d"><h1>Requirement 9d.</h1></div> 
-
-<iframe width="160" height="99" src="https://youtube.com/embed/5QfX5TtqU7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<hr>
-
-
-
-
-
+</body>
+</html>
