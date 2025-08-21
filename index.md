@@ -20,6 +20,7 @@
 <h3>Links</h3> 
 
 <hr>
+<hr>
 
 <h4>BSA Merit Badges</h4>
 
