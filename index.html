@@ -1,119 +1,175 @@
-<!DOCTYPE html> 
-<tml>
+<!DOCTYPE html>
+<html>
 <head>
-  <title>Zephyr C. BSA</title>
-  <style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;
+      background-image: url(https://www.shutterstock.com/shutterstock/photos/2247477115/display_1500/stock-vector-seamless-pattern-with-swirled-geometric-line-israeli-star-vector-illustration-2247477115.jpg);
+     color: black;
+     }
 
-body {
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  height: 100%;
+}
+
+/* Style the close button */
+.topright {
+  float: right;
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.topright:hover {color: red;}
+
+.simpltext {
+background-color: white;
+border-radius: 12px;
+}
+.videocenter {
 text-align: center;
-padding: 0%;
-margin: 0%;
 }
-
-ul {
-text-align: left;
-}
-
-.topdiv {
-padding: 10px;
-margin: 10px;
-background-color: #4afc32;
-}
-
-.submain {
-color: black;
-background-color: #90fce9;
-margin: 0%;
-}
-
-.main {
-background-color: #90fce9;
-margin: 0%;
-}
-.top {
-text-align: left;
- background-image: url('https://github.com/user-attachments/assets/7ae6a0b3-5413-4ba9-ba08-f17a88a42c8b');
-  padding: 30px
-
-}
-
-    
-  </style>
+</style>
 </head>
 <body>
 
-
-
-<div class="main">
-
-<h1 class="top"><a href="zephyrcarter.github.io">Home</a></h1>
-
-<h2 class="topdiv">Here are all of my various BSA Merit badges, the progress on each one, and any completed Merit badges not recorded here</h2>
-
-
-<div class="submain">
-
-<hr>
-<hr>
-
-<h2>The National Anthem</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DADmZdbQ9x8?si=kRJRf0E6ZgD6NWry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<hr>
-<hr>
-
-<h3>Links</h3> 
-
-<hr>
-<hr>
-
-<h4>BSA Merit Badges</h4>
-
-<hr>
-
-<h5>Eagle - Required</h5>
-
-<hr>
-
-<ul>
-  <li><a href="">Link</a></li>
-  <li><a href="">Link</a></li>
-  <li><a href="">Link</a></li>
-  <li><a href="">Link</a></li>
-  <li><a href="">Link</a></li>
-</ul>
-
-<hr>
-
-<h5>Non Eagle - Required</h5>
-
-<hr>
-
-<ul>
-  <li><a href="">Link</a></li>
-  <li><a href="">Link</a></li>
-  <li><a href="">Link</a></li>
-  <li><a href="">Link</a></li>
-</ul>
-
-<hr>
-
-<h5>Completed</h5>
-
-<hr>
-
-<h4>All other non Merit badge related links</h4>
-
-<ul>
-  <li><a href="https://zephyrcarter.github.io/SCOUTHUB/links_route_here.html">Many requirements signed off in California</a></li>
-  <li><a href="">Link</a></li>
-</ul>
-
-<hr>
-
+<div class="simpltext">
+<h2><a href="https://zephyrcarter.github.io/mylife/" color="black">Zephyr Carter</a></h2>
+<p>This is my website/blog! <br>
+Here I have a variety of content, including my travels, BSA progress and many other things! </p>
 </div>
 
+<hr>
+<div class="tab">
+   <button class="tablinks" onclick="openCity(event, 'Search')" id="defaultOpen">Search</button>
+  <button class="tablinks" onclick="openCity(event, 'Travel')" id="defaultOpen">Travel</button>
+  <button class="tablinks" onclick="openCity(event, 'MC_Economy')">MC Economy</button>
+  <button class="tablinks" onclick="openCity(event, 'DIY')">DIY</button>
+   <button class="tablinks" onclick="openCity(event, 'Resume')">Resume</button>
+   <button class="tablinks" onclick="openCity(event, 'Scouting')">Scouting</button>
 </div>
 
+
+
+<div id="Search" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+ <iframe src="https://zephyrcarter.github.io/mylife/searchcat/search.html" width="100%" height="300px"></iframe>
+</div>
+
+<div id="Travel" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+  <h3>Travel</h3>
+  <iframe src="https://zephyrcarter.github.io/mylife/searchcat/travel.html" width="100%" height="300px"></iframe> 
+  <br>
+ <a href="https://zephyrcarter.github.io/mylife/searchcat/travel.html">Take a better look</a>
+</div>
+
+<div id="MC_Economy" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+  <h3>Minecraft Economy</h3>
+  <p><h6><i>Under construction</i></h6></p> 
+</div>
+
+<div id="DIY" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+  <h3>DIY</h3>
+  <p><h6><i>Under construction</i></h6></p>
+</div>
+
+<div id="Resume" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+  <h3>My Resume</h3>
+  <p><h6><i>Under construction</i></h6></p>
+</div>
+
+<div id="Scouting" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+  <h3>Scouting</h3>
+  <iframe src="https://zephyrcarter.github.io/mylife/searchcat/bsamain.html" width="100%" height="300px"></iframe>
+  <br>
+  <p><a href="https://zephyrcarter.github.io/mylife/searchcat/bsamain.html">Take a better look</a></p>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   <hr>
+   
+   <h3 class="simpltext">Some songs I like:</h3>
+   
+   <hr>
+   
+   <div class="videocenter">
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/cj3U0z64_m4?si=rUw6mUJXXD6Ge-eR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+         
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/6YgjBh9wHHg?si=j5MKYAuTFjfHL1Ar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/yl2pJHSobCY?si=53aFkoYFv1vP-gUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+         
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/jd-Ywez0Hbs?si=x9Z76zxlajRUNOUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/Dbd4h1kaFlY?si=GifoRnCUNnu6cDUZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/-zVinf2fs34?si=NpC2sun6dn8lIkhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/7vi5Pt51Af4?si=nJagfmYGKK4fpFkt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/feW1kHyNSpI?si=4VjV-lfJ2Bl84J1X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/0LqBw6FNNng?si=dBS1KCr-HXsEemDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   
+   <iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/3CGBhtvwLnI?si=9SeNEBB7jv2usyj1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   
+   
+   </div>
+   
 </body>
-</html>
+</html> 
