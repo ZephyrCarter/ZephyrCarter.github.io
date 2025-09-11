@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {font-family: Arial;
+      background-image: url(https://www.shutterstock.com/shutterstock/photos/2247477115/display_1500/stock-vector-seamless-pattern-with-swirled-geometric-line-israeli-star-vector-illustration-2247477115.jpg);
+     color: black;
+     text-align: center;
+     }
+     .simpltext {
+background-color: white;
+border-radius: 12px;
+}
+.videocenter {
+text-align: center;
+}
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  height: 100%;
+}
+
+/* Style the close button */
+.topright {
+  float: right;
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.topright:hover {color: red;}
+
+</style>
+</head>
+<body>
+
+<h1><a href="#">HOME</a></h1>
+<hr>
+<h2 class="simpltext">DIY</h2>
+
+
+
+<div class="tab">
+   <button class="tablinks" onclick="openCity(event, 'tools')" id="defaultOpen">Tools</button>
+  <button class="tablinks" onclick="openCity(event, 'carving')">Carving</button>
+   <button class="tablinks" onclick="openCity(event, 'weaving')">Weaving</button>
+</div>
+
+<div id="tools" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+  <div class="simpltext">
+  <h3>Tools</h3>
+  </div>
+  <p><h6><i>Under construction</i></h6>
+  
+  </p>
+</div>
+
+<div id="carving" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+  <div class="simpltext">
+  <h3>Carving</h3>
+  </div>
+  <p><h6><i>Under construction</i></h6>
+  
+  </p> 
+</div>
+
+<div id="weaving" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+  <div class="simpltext">
+  <h3>Weaving</h3>
+  </div>
+  <p><h6><i>Under construction</i></h6>
+  
+  </p> 
+</div>
+
+
+<hr>
+<div class="simpltext">
+This page is for all of my DIY crafts, from beads to carvings to stone tools, here it all is.
+</div>
+<hr>
+
+
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+</body>
+</html>
