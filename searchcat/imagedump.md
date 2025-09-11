@@ -16,6 +16,16 @@ Hi! pls do not link to this page! this is for adding images to github and retrie
 <img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/6d0d7be0-9b3b-47a5-8164-1df232c1825f" />
 <img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/1614ce9d-7284-41d4-867f-40b93c805d78" />
 <img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/9a03a05c-e6d4-4bcf-865d-16d7fe5b54f4" />
+<hr>
+<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/32054f0e-716e-4f1b-8503-4c2701f69bf5" />
+<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/ec03e53a-9796-4e62-b962-350fcba348ce" />
+<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/8682a3c1-c9aa-483c-8fb4-f44a636f7021" />
+<hr>
+<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/666c8978-b743-4231-878c-955137a21f25" />
+<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/0b4150a0-8236-4703-987f-3f202e190cfa" />
+
+
+
 
 
 
