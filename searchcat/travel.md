@@ -4,6 +4,8 @@
 ## Here is a series of photos from all the legs of the trip from San Jose CA to Washington DC
 This is from Tahlequah OK to Clinton AR; the original plan was to go from tq to Helena-west helena AR on the Mississipi river, but we waited to late in the day, and with a seven hour car ride in front of us, we would be getting there at 11-12 at night. So we stopped in clinton AR for the night. I had not slept much the night before, so I slept in the car and missed much of Oklahoma and about helf of Arkansas. On the way out however, we washed or clothes at a place called Landry Dot, and talked with a very classy women who worked there. She was very nice, and if we need to wash clothes in tq again, we will try to go there. Anyway, here are the photos outside of tq in the Cherokee Nation I got:
 <hr>
+<iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/lGeHtgrdYng?si=265RgkY2tcAKEsJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<hr>
 <img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/f64be923-7998-47da-b08a-ee27cbf3c444"/>
 <img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/a0b7b987-3a5b-4b3e-9d5d-7017d4ac5454" />
 <img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/2c1c6375-cf16-4103-a474-5ab9b71b7374" />
@@ -16,7 +18,7 @@ This is from Tahlequah OK to Clinton AR; the original plan was to go from tq to 
 <hr>
 This is from Greensburg KS to Tahlaquah OK:
 <hr>
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/3-w1DbUIhYs?si=RUAnlNH5mSt3n9dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe max-width="100%" height="auto" src="https://www.youtube.com/embed/3-w1DbUIhYs?si=RUAnlNH5mSt3n9dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <img src="https://github.com/user-attachments/assets/e8c4cc88-e79a-4e74-9c67-ae2ade3532fa"/>
 <img src="https://github.com/user-attachments/assets/ed7b0d86-16c1-41fc-a2c2-7ae5dbadf17b"/>
