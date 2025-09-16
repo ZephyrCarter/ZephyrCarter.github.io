@@ -83,7 +83,7 @@ This bowl I made at 16 years old, it is a piece of driftwood I found at a beach 
 <img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/a9a63032-b29a-4fd5-9e85-e6f029e04522" />
       
 <hr>
-
+ 
 
 
  
